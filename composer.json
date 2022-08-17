@@ -1,0 +1,5 @@
+{
+    "require": {
+        "laminas/laminas-db": "^2.15"
+    }
+}
